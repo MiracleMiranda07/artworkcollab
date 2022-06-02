@@ -1,0 +1,20 @@
+# These dependencies are used to create the environment used by the score file
+name: mch_scoring_env
+dependencies:
+  # The python interpreter version.
+  - python=3.8.12
+  - pip=21.2.2
+  - pandas
+  - pathlib2=2.3.6
+  - rich
+  - psutil
+  - tqdm
+  - pip:
+      # Scoring pip deps
+      - azureml-sdk==1.37.*
+      - azureml-defaults==1.37.*
+      - azureml-core==1.37.0.post1
+      - azure-storage-blob==12.10.0b2
+      - azure-storage-file-datalake==12.5.0
+      - azure-keyvault-secrets==4.3.0
+      - azure-identity==1.7.0

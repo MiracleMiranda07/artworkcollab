@@ -1,0 +1,21 @@
+{
+  "SUBSCRIPTION_ID": "a00a8e0f-73c4-4480-8097-07bf63060185",
+  "RESOURCE_GP": "ANALYTICS_MART_DEV_RG",
+  "WORKSPACE_NAME": "aiml-workspace-dev",
+  "STORAGE_ACCOUNT": "analyticsmartdevadls",
+  "STORAGE_KEY": "pEU+oeaNl5x5/8B4r7KlKyDrlhvQmSDUCSCnmOoQWSBrIk4rZQP5PvX2G6Dp8p2LMOQXp0vZvDhPpmDpDoHXGA==",
+  "ANALYTICS_CONTAINER": "analytics-datalake",
+  "INFERENCE_CONTAINER": "inference-data",
+  "EVTDATA_FOLDER": "evtdata",
+  "ML_FOLDER": "machine-learning",
+  "TENANT_ID": "4deb802f-fdf2-4ebe-ae9b-8df74fb06435",
+  "PRINCIPAL_ID": "78789f73-f772-44c0-9f88-fa29c39aaeaf",
+  "PRINCIPAL_PWD": "xfk7Q~MZaeC7n9bHWxYjDtEmYzP2ez_e~NyZb",
+  "KEY_VAULT_NAME": "aimlworkspaced9373591174",
+  "ARTWORK_DETAIL_FILTER_VALUE": "100",
+  "ROOM_DETAIL_FILTER_VALUE": "100",
+  "ARTWORK_GRID_FILTER_VALUE": "100",
+  "ROOM_GRID_FILTER_VALUE": "100",
+  "SHUFFLE_GRID_VAL": "40",
+  "SHUFFLE_DETAIL_VAL": "20"
+}
